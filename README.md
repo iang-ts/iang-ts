@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanFsciety&show_icons=true&theme=gotham&langs_count=6)](https://github.com/iang-ts/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iang-ts&show_icons=true&theme=gotham&langs_count=6)](https://github.com/iang-ts/github-readme-stats)
   
 </div>
 
