@@ -7,12 +7,21 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me | Sobre mim
 
+**🇺🇸 English:**
+- 💻 Full-stack Developer focused on **TypeScript**, **Node.js**, **AWS**, and **React/React Native**
+- 🏗️ Experience with **Clean Architecture**, **DDD**, and **Design Patterns**
+- ☁️ Building serverless applications with **AWS Lambda**, **DynamoDB**, **S3**, **SQS**
+- 📱 Mobile development with **React Native CLI** and **Expo**
+- 🤖 **AI/LLMs** integrations in real-world applications
+- 🎯 Passionate about code and development best practices
+
+**🇧🇷 Português:**
 - 💻 Full-stack Developer com foco em **TypeScript**, **Node.js**, **AWS** e **React/React Native**
 - 🏗️ Experiência em **Clean Architecture**, **DDD** e **Design Patterns**
 - ☁️ Construindo aplicações serverless com **AWS Lambda**, **DynamoDB**, **S3**, **SQS**
-- 📱 Desenvolvimento mobile com **React Native cli** e **Expo**
+- 📱 Desenvolvimento mobile com **React Native CLI** e **Expo**
 - 🤖 Integrações de **IA/LLMs** em aplicações reais
 - 🎯 Apaixonado por código e boas práticas de desenvolvimento
 
