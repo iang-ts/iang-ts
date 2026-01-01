@@ -12,9 +12,9 @@
 - 💻 Full-stack Developer com foco em **TypeScript**, **Node.js**, **AWS** e **React/React Native**
 - 🏗️ Experiência em **Clean Architecture**, **DDD** e **Design Patterns**
 - ☁️ Construindo aplicações serverless com **AWS Lambda**, **DynamoDB**, **S3**, **SQS**
-- 📱 Desenvolvimento mobile com **React Native** e **Expo**
+- 📱 Desenvolvimento mobile com **React Native cli** e **Expo**
 - 🤖 Integrações de **IA/LLMs** em aplicações reais
-- 🎯 Apaixonado por código limpo e boas práticas de desenvolvimento
+- 🎯 Apaixonado por código e boas práticas de desenvolvimento
 
 ---
 
