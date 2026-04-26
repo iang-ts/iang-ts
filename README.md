@@ -64,9 +64,9 @@ I'm a **Full-stack Developer** specialized in building **scalable serverless arc
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iang-ts&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iang-ts&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 ---
 
