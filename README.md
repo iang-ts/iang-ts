@@ -55,6 +55,7 @@ I'm a **Full-stack Developer** specialized in building **scalable serverless arc
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -66,9 +67,10 @@ I'm a **Full-stack Developer** specialized in building **scalable serverless arc
 
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iang-ts&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div> -->
+</div> 
 
 ---
+-->
 
 ## 📫 Get in Touch
 
